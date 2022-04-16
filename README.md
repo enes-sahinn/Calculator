@@ -1,6 +1,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Game Screen](#game-screen)
 * [Built With](#built-with)
 * [Swing](#Swing)
 * [Contact](#contact)
@@ -8,6 +9,9 @@
 ## About The Project
 
 This project simply aims to make a calculator with interface using JComponents and JavaSwing.
+
+## Game Screen
+![alt text](https://github.com/enes-sahinn/Calculator/blob/master/game_screen.png)
 
 ## Built With
 
