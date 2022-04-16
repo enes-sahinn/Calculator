@@ -8,7 +8,7 @@
 
 ## About The Project
 
-This project simply aims to make a calculator with interface using JComponents and JavaSwing.
+This project simply aims to make a calculator with interface by using JComponents and JavaSwing.
 
 ## Game Screen
 ![alt text](https://github.com/enes-sahinn/Calculator/blob/master/game_screen.png)
